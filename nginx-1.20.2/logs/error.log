@@ -1,0 +1,1 @@
+2023/07/31 10:00:47 [error] 8004#20488: *1 CreateFile() "D:\nginx\nginx-1.20.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
