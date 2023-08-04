@@ -1,0 +1,99 @@
+2023/07/31 10:00:47 [error] 8004#20488: *1 CreateFile() "D:\nginx\nginx-1.20.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/07/31 10:12:39 [emerg] 25904#15148: unexpected "}" in D:\nginx\nginx-1.20.2/conf/nginx.conf:47
+2023/07/31 10:15:02 [notice] 5956#15880: signal process started
+2023/07/31 10:34:32 [notice] 16704#19012: signal process started
+2023/07/31 10:41:59 [notice] 5956#6064: signal process started
+2023/07/31 10:50:39 [notice] 15092#4632: signal process started
+2023/07/31 10:56:37 [notice] 7380#14784: signal process started
+2023/07/31 13:34:49 [notice] 11640#7260: signal process started
+2023/07/31 13:39:13 [notice] 18968#2772: signal process started
+2023/07/31 13:44:59 [notice] 13808#3352: signal process started
+2023/07/31 13:51:58 [notice] 23032#21808: signal process started
+2023/08/01 16:23:19 [error] 19716#3012: *1 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 16:23:28 [error] 19716#3012: *1 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 16:23:52 [notice] 11720#23452: signal process started
+2023/08/01 16:23:56 [error] 19716#3012: *1 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 16:23:58 [error] 19716#3012: *1 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 16:23:58 [error] 19716#3012: *1 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 16:23:58 [error] 19716#3012: *1 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 16:24:24 [error] 19716#3012: *1 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 16:24:28 [error] 19716#3012: *1 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 16:24:29 [error] 19716#3012: *1 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 16:24:29 [error] 19716#3012: *1 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 16:30:00 [notice] 3368#25312: signal process started
+2023/08/01 16:30:05 [error] 19716#3012: *5 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 16:30:05 [error] 19716#3012: *5 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 16:30:06 [error] 19716#3012: *5 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 16:30:06 [error] 19716#3012: *5 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 16:35:21 [notice] 11248#23904: signal process started
+2023/08/01 16:40:40 [notice] 1336#17956: signal process started
+2023/08/01 16:40:49 [error] 19716#3012: *14 rewrite or internal redirection cycle while internally redirecting to "/index.html", client: 127.0.0.1, server: localhost, request: "GET /login?redirect=/dashboard/deposit-account-client HTTP/1.1", host: "localhost"
+2023/08/01 16:40:54 [error] 19716#3012: *15 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 16:40:59 [error] 19716#3012: *15 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 16:44:29 [error] 19716#3012: *17 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 16:44:30 [error] 19716#3012: *17 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 16:44:31 [error] 19716#3012: *17 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 16:44:32 [error] 19716#3012: *17 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 16:44:56 [notice] 2948#3232: signal process started
+2023/08/01 16:45:00 [error] 19716#3012: *17 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 16:45:01 [error] 19716#3012: *17 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 16:45:01 [error] 19716#3012: *17 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 16:45:01 [error] 19716#3012: *17 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 16:45:01 [error] 19716#3012: *17 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 16:45:01 [error] 19716#3012: *17 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 16:45:54 [notice] 3816#9536: signal process started
+2023/08/01 16:45:56 [error] 19716#3012: *17 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 16:45:57 [error] 19716#3012: *17 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 16:45:57 [error] 19716#3012: *17 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 16:45:57 [error] 19716#3012: *17 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 16:45:58 [error] 19716#3012: *17 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 16:48:38 [notice] 25152#12464: signal process started
+2023/08/01 16:48:43 [error] 19716#3012: *21 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 16:48:43 [error] 19716#3012: *21 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 16:48:44 [error] 19716#3012: *21 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 16:48:48 [error] 19716#3012: *21 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 16:56:08 [error] 19716#3012: *24 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 16:56:08 [error] 19716#3012: *24 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 16:56:09 [error] 19716#3012: *24 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 16:56:09 [error] 19716#3012: *24 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 16:56:09 [error] 19716#3012: *24 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 16:56:09 [error] 19716#3012: *24 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 16:56:09 [error] 19716#3012: *24 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 16:56:09 [error] 19716#3012: *24 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 16:57:21 [notice] 2996#2036: signal process started
+2023/08/01 16:57:27 [error] 19716#3012: *27 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 16:57:32 [error] 19716#3012: *27 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 16:57:32 [error] 19716#3012: *27 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 17:03:24 [notice] 2952#6644: signal process started
+2023/08/01 17:03:24 [error] 2952#6644: CreateFile() "D:\nginx\nginx-1.20.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2023/08/01 17:03:36 [notice] 3092#18136: signal process started
+2023/08/01 17:03:43 [error] 19716#3012: *30 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 17:03:43 [error] 19716#3012: *30 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 17:03:44 [error] 19716#3012: *30 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 17:03:44 [error] 19716#3012: *30 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 17:03:44 [error] 19716#3012: *30 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 17:03:45 [error] 19716#3012: *30 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 17:03:45 [error] 19716#3012: *30 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 17:03:45 [error] 19716#3012: *30 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 17:05:08 [notice] 19552#21468: signal process started
+2023/08/01 17:05:19 [error] 19716#3012: *33 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 17:05:19 [error] 19716#3012: *33 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 17:05:22 [error] 19716#3012: *33 directory index of "D:\nginx\nginx-1.20.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 17:48:46 [notice] 8500#6016: signal process started
+2023/08/01 17:49:26 [notice] 7268#19228: signal process started
+2023/08/01 17:51:00 [notice] 23672#9816: signal process started
+2023/08/01 17:51:08 [notice] 12664#7576: signal process started
+2023/08/01 17:51:11 [notice] 8372#2544: signal process started
+2023/08/01 17:51:11 [error] 8372#2544: CreateFile() "D:\nginx\nginx-1.20.2-1/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2023/08/01 17:54:05 [error] 22152#2012: *1 directory index of "D:\nginx\nginx-1.20.2-1/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 17:54:07 [error] 22152#2012: *1 directory index of "D:\nginx\nginx-1.20.2-1/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/01 17:54:07 [error] 22152#2012: *1 directory index of "D:\nginx\nginx-1.20.2-1/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/08/03 10:52:18 [notice] 22836#23816: signal process started
+2023/08/03 17:00:47 [notice] 2268#16732: signal process started
+2023/08/03 17:04:55 [notice] 4940#13924: signal process started
+2023/08/03 17:05:20 [notice] 15320#14388: signal process started
+2023/08/03 17:15:24 [notice] 18724#5580: signal process started
+2023/08/03 17:30:51 [notice] 21472#8600: signal process started
+2023/08/03 17:57:38 [notice] 11940#18516: signal process started
+2023/08/03 18:00:19 [notice] 16320#17952: signal process started
+2023/08/03 18:05:28 [notice] 14868#9700: signal process started
